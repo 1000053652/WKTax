@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858876139935",
+    "project_id": "cch-client-collaboration-ec0a9",
+    "storage_bucket": "cch-client-collaboration-ec0a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858876139935:android:1d89c0fcc96c5a5af005aa",
+        "android_client_info": {
+          "package_name": "com.wktaxapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC12puek8-BjkBBpRSzxeYh3g-bepybZvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

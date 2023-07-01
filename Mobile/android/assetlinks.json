@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wktaxapp",
+      "sha256_cert_fingerprints": [
+        "D4:20:17:1D:BB:08:C2:8A:DD:BB:99:64:36:04:12:26:F0:AB:4D:FB:5B:D6:52:A4:AC:23:B4:69:C0:90:FC:25"
+      ]
+    }
+  }
+]

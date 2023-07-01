@@ -1,0 +1,13 @@
+{
+  "NavInvestments": "Buy or sell investments (such as stocks, bonds or virtual currencies), acquire an interest in a Partnership, S-Corp or Trust, or make home improvements?",
+  "NavBusiness": "Have any business, rental/royalty, or farm activities to report?",
+  "NavDeductions": "Have any new deductions (such as home mortgage interest, cash or non-cash donations, medical expenses)?",
+  "NavEducation": "Have any new activities related to higher education (such as starting or financing school for you or your dependents)?",
+  "NavRetirement": "Contribute to or have distributions from retirement account(s) (such as 401K or IRA)? ",
+  "NavHealthcare": "Have healthcare coverage and/or activities to report in health care accounts (HSA, MSA, or LTC)?",
+  "NavTaxpayment": "Make any federal, state, or city estimated tax payments?",
+  "NavGifts": "Make any significant gifts to individuals or trusts?",
+  "NavForeignMatters": "Work, have investment income, or set up a trust outside the U.S.?",
+  "NavMoving": "Buy, sell or take out a new loan on your home?",
+  "NavMiscellaneous": "Have any miscellaneous income or expenses, not reported elsewhere?"
+}

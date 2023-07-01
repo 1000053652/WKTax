@@ -1,0 +1,7 @@
+{
+  "ERROR": "Error",
+  "COMMON_ERROR_MESSAGE": "Something went wrong. Please try again later.",
+  "AMOUNT_ERROR":"Amount is required.",
+  "STATE_ERROR":"State is required.",
+  "CITY_ERROR":"City/County/School name required."
+}

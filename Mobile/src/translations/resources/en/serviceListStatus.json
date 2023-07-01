@@ -1,0 +1,6 @@
+{
+  "NOT_STARTED": "Not Started",
+  "INPROGRESS": "You have some open tasks to complete",
+  "NO_OPEN_TASK": "No open tasks at this time",
+  "RETURN_DELIVERED": "Return Delivered"
+}

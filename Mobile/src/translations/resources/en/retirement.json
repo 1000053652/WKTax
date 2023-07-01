@@ -1,0 +1,11 @@
+{
+  "NAVRETIREMENT": "Did you contribute to or have distributions from retirement account(s) (such as 401K or IRA)?",
+  "YNOCONTIRAACCT": "Contribute to an IRA account?",
+  "YNOROLLOVER": "Convert or roll any distributions from a retirement plan, an annuity plan, tax shelter annuity or deferred compensation plan into an IRA account?",
+  "YNONEWDISTRIBUTION": "Take a new distribution from any retirement accounts?",
+  "YNOTURNMDAGE": "Turn age 72 during the year and have money in an IRA or other retirement account while not taking a distribution?",
+  "YNOQCDFROMIRA": "Make a qualified charitable distribution directly from an IRA?",
+  "YNOSOCSEC": "Begin taking distributions from your Social Security account?",
+  "YNORETIRE": "Retire or change jobs?",
+  "YNORECEIVECOMP": "Receive deferred, retirement or severance compensation?"
+}

@@ -1,0 +1,7 @@
+export enum TaskMessageDescType {
+  NONE,
+  NO_TASK,
+  WE_ARE_READY_TO_RETURN,
+  TASK_CONGRATS_MESSAGE,
+  TAX_RETURN_COMPLETED,
+}

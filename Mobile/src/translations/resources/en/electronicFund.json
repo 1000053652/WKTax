@@ -1,0 +1,12 @@
+{
+  "ELECTRONIC_TITTLE": "Add Financial Institution",
+  "CHECKING": "Checking",
+  "SAVINGS": "Savings",
+  "FOREIGN": "Is this a foreign account?",
+  "REFUNDS": "Deposit refunds",
+  "TAX_RETURNS": "Pay amounts due with your tax returns",
+  "TAX_PAYMENTS": "Pay estimated tax payments",
+  "Financial_institutions": "FINANCIAL INSTITUTIONS",
+  "TITLE": "Electronic Funds",
+  "DELETE_THIS": " Are you sure you want to delete this "
+}
